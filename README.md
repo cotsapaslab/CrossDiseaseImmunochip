@@ -7,8 +7,7 @@
 
 
 ## Introduction
-This repository contains code used for quality control, association, joint likelihood mapping and fine-mapping in [Joint analysis reveals shared autoimmune disease associations and identifies common mechanisms](https://localhost).
-
+This repository contains code used for quality control, association, joint likelihood mapping and fine-mapping in [Joint analysis reveals shared autoimmune disease associations and identifies common mechanisms](https://doi.org/10.1101/2021.05.13.21257044).
 
 ## Disclaimer
 Code is configured for use on the Yale HPC [farnam](https://docs.ycrc.yale.edu/clusters-at-yale/clusters/farnam/) cluster using the slurm workload manager. The code here is provided as-is. We have validated that it runs without errors on our system, but we cannot guarantee performance in other computing environments.
